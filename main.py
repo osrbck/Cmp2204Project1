@@ -8,7 +8,7 @@ filename = ""
 # Son versiyonda UdpServer olmayacak içindeki kod Client a atılacak şuanlık yalnızca test için böyle.
 # Nasıl test edileceği UdpServer ın son kısmında yazıyor.
 
-
+# asdf
 
 '''
 def get_file_name():
